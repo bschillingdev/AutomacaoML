@@ -1,0 +1,44 @@
+```
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+.yarn-cache/
+
+# Build outputs
+dist/
+build/
+coverage/
+.nyc_output/
+.eslintcache
+
+# TypeScript
+*.tsbuildinfo
+*.tsx
+*.d.ts
+
+# Runtime
+.env
+.env.local
+.env.*
+.env.local.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.temp
+```
